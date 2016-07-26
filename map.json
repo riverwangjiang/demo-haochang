@@ -1,0 +1,17 @@
+{
+    "errno": 0, 
+    "error": "", 
+    "data": {
+        "user": {
+            "id": 2, 
+            "avatar": "http://img-qn.okchang.com/data_center/avatar/0/2.jpg?imageView2/1/w/160/h/160", 
+            "nickname": "莲华"
+        }, 
+        "ktv": {
+            "name": "重庆日月光店", 
+            "address": "渝中区民权路89号5楼(较场口日月光广场)", 
+            "latitude": 106.578124, 
+            "longitude": 29.560809
+        }
+    }
+}

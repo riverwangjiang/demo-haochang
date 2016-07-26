@@ -1,0 +1,177 @@
+{
+    "errno": 0, 
+    "error": "", 
+    "data": {
+        "appUrl": "cqhaochang://v4.haochang.com/eyJ1cmwiOiJwbGF5bGlzdFwvc29uZ3MiLCJ0YXJnZXQiOiJhcHAiLCJwbGF5bGlzdElkIjoiMDYyY2YzODMtNmE0Ny00MTljLWFjMmMtMzllY2UwNjBhYWU5IiwidGl0bGUiOiJcdTU1OWNcdTZiNjFcdTc2ODRcdTZiNGMifQ==", 
+        "name": "喜歡的歌", 
+        "cover": "http://files.haochang.tv/file/user/playlist/062cf383-6a47-419c-ac2c-39ece060aae9/IM100732551456351272899.jpg", 
+        "intro": "唱自己喜歡的歌", 
+        "count": 32, 
+        "user": {
+            "id": 10073255, 
+            "nickname": "JaneHua"
+        }, 
+        "songs": [
+            {
+                "id": 3197961, 
+                "name": "斑马斑马-高清版", 
+                "singer": "原唱：宋冬野"
+            }, 
+            {
+                "id": 173552, 
+                "name": "他不爱我", 
+                "singer": "原唱：莫文蔚"
+            }, 
+            {
+                "id": 173637, 
+                "name": "掌声响起来", 
+                "singer": "原唱：佚名"
+            }, 
+            {
+                "id": 176818, 
+                "name": "爱我别走", 
+                "singer": "原唱：周杰伦"
+            }, 
+            {
+                "id": 939949, 
+                "name": "简单爱", 
+                "singer": "原唱：周杰伦"
+            }, 
+            {
+                "id": 2474176, 
+                "name": "菊花台[中国好声音4]", 
+                "singer": "原唱：张旸"
+            }, 
+            {
+                "id": 2536720, 
+                "name": "传奇-高清版", 
+                "singer": "原唱：王菲"
+            }, 
+            {
+                "id": 2536829, 
+                "name": "在水一方[中国好声音4]", 
+                "singer": "原唱：马吟吟"
+            }, 
+            {
+                "id": 2552197, 
+                "name": "天路-高清版", 
+                "singer": "原唱：韩红"
+            }, 
+            {
+                "id": 2753241, 
+                "name": "执迷不悔-高清版", 
+                "singer": "原唱：王菲"
+            }, 
+            {
+                "id": 2753357, 
+                "name": "忘不了-高清版", 
+                "singer": "原唱：童安格"
+            }, 
+            {
+                "id": 2757206, 
+                "name": "暧昧-高清版", 
+                "singer": "原唱：王菲"
+            }, 
+            {
+                "id": 2757221, 
+                "name": "其实你不懂我的心-高清版", 
+                "singer": "原唱：童安格"
+            }, 
+            {
+                "id": 2757236, 
+                "name": "又见炊烟-高清版", 
+                "singer": "原唱：王菲"
+            }, 
+            {
+                "id": 2770164, 
+                "name": "棋子-高清版", 
+                "singer": "原唱：王菲"
+            }, 
+            {
+                "id": 2779444, 
+                "name": "恰似你的温柔-高清版", 
+                "singer": "原唱：邓丽君"
+            }, 
+            {
+                "id": 2780072, 
+                "name": "外面的世界-高清版", 
+                "singer": "原唱：齐秦"
+            }, 
+            {
+                "id": 2780257, 
+                "name": "听说爱情回来过-高清版", 
+                "singer": "原唱：蔡依林"
+            }, 
+            {
+                "id": 2789489, 
+                "name": "回家-高清版", 
+                "singer": "原唱：顺子"
+            }, 
+            {
+                "id": 2789544, 
+                "name": "爱你一万年", 
+                "singer": "原唱：韩宝仪"
+            }, 
+            {
+                "id": 3147621, 
+                "name": "恭喜发财红包拿来", 
+                "singer": "原唱：恭喜发财"
+            }, 
+            {
+                "id": 2956122, 
+                "name": "爱的礼物", 
+                "singer": "原唱：凤飞飞"
+            }, 
+            {
+                "id": 3028496, 
+                "name": "情人的眼泪[现场版]", 
+                "singer": "原唱：蔡琴"
+            }, 
+            {
+                "id": 3028825, 
+                "name": "巧合", 
+                "singer": "原唱：凤飞飞"
+            }, 
+            {
+                "id": 3028959, 
+                "name": "一口气全念对-高清版", 
+                "singer": "原唱：周杰伦"
+            }, 
+            {
+                "id": 3116615, 
+                "name": "默-高清版", 
+                "singer": "原唱：那英"
+            }, 
+            {
+                "id": 3166128, 
+                "name": "听见下雨的声音[中国好声音4]", 
+                "singer": "原唱：关诗敏"
+            }, 
+            {
+                "id": 3175030, 
+                "name": "给我一个吻-高清版", 
+                "singer": "原唱：蔡琴"
+            }, 
+            {
+                "id": 3197940, 
+                "name": "七里香-高清版", 
+                "singer": "原唱：周杰伦"
+            }, 
+            {
+                "id": 3174959, 
+                "name": "爱要有你才完美[现场版]", 
+                "singer": "原唱：那英"
+            }, 
+            {
+                "id": 3192402, 
+                "name": "我真的受伤了-高清版", 
+                "singer": "原唱：王菀之"
+            }, 
+            {
+                "id": 3192609, 
+                "name": "黑色幽默-高清版", 
+                "singer": "原唱：周杰伦"
+            }
+        ]
+    }
+}

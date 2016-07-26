@@ -1,0 +1,20 @@
+{
+    "errno": 0, 
+    "error": "", 
+    "data": {
+        "appUrl": "cqhaochang://v4.haochang.com/eyJ1cmwiOiJzb25nIiwidGFyZ2V0IjoiYXBwIiwic29uZ0lkIjoiMTc2ODE4Iiwic29uZ05hbWUiOiJcdTcyMzFcdTYyMTFcdTUyMmJcdThkNzAiLCJzaW5nZXJOYW1lIjoiSmFuZUh1YSIsInNpbmdlcklkIjoiMTc2ODE4IiwiYXZhdGFyIjoiaHR0cDpcL1wvZmlsZXMuaGFvY2hhbmcudHZcL2ZpbGVcL3VzZXJcL2F2YXRhclwvMTAwNzMyNTVcL0lNMTAwNzMyNTUxNDU2MDE3ODY5OTQ1LmpwZz9zbWFsbCJ9", 
+        "user": {
+            "id": 10073255, 
+            "avatar": "http://files.haochang.tv/file/user/avatar/10073255/IM100732551456017869945.jpg?small", 
+            "nickname": "JaneHua"
+        }, 
+        "song": {
+            "id": 176818, 
+            "name": "爱我别走", 
+            "intro": "试唱我喜欢的好唱[唱歌][心]周杏伦作品", 
+            "type": 1, 
+            "sourceUrl": "http://audio-qn.okchang.com/tingting/music/201408/gyh_1407528815_10073255.m4a", 
+            "lyricUrl": "http://download-qn.okchang.com/song_lib/lrc/20140411/59438S7.txt"
+        }
+    }
+}

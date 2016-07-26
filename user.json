@@ -1,0 +1,27 @@
+{
+    "errno": 0, 
+    "error": "", 
+    "data": {
+        "appUrl": "cqhaochang://v4.haochang.com/eyJ1cmwiOiJ1c2VyXC9ob21lcGFnZSIsInRhcmdldCI6ImFwcCIsInVzZXJJZCI6IjEwNTExMTExIn0=", 
+        "user": {
+            "id": 10511111, 
+            "avatar": "http://img-qn.okchang.com/data_center/avatar/11/1455191707_10511111.jpg?imageView2/1/w/320/h/320", 
+            "nickname": "蒙恩的映霓-CDs"
+        }, 
+        "intro": "高贵和优雅源自美好心灵。", 
+        "top_rank": {
+            "name": "一个真实的故事[中国梦之声1]", 
+            "id": 3190683
+        }, 
+        "recent_rank": [
+            {
+                "name": "千言万语[钢琴版]-高清版", 
+                "id": 3203033
+            }, 
+            {
+                "name": "风月", 
+                "id": 3198375
+            }
+        ]
+    }
+}
